@@ -21,9 +21,7 @@ type (optional): A 'needs-data' data type supplied by this token, which should m
 */
 
 function codedrilltokens_token_info(){
-	$info['tokens']['node']['pathauto'] = array(
-        'name' => t('Pathauto'),
-        'description' => t('Title ready for use with pathauto.'),
-    );
+	echo '<pre>';
+	print_r($info);die;
     return $info;	
 }
