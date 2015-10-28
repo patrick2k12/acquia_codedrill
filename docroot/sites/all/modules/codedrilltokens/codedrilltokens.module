@@ -54,7 +54,6 @@ function codedrilltokens_tokens($type, $tokens, array $data = array(), array $op
 	$replacements = array();
     $sanitize = !empty($options['sanitize']);
 	if ($type == 'node' && !empty($data['node'])) {
-        $node = $data['node'];
 
         foreach ($tokens as $name => $original) {
         
