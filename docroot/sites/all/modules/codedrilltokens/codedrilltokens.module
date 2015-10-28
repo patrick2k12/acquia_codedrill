@@ -53,7 +53,7 @@ An associative array of replacement values, keyed by the raw [type:token] string
 function codedrilltokens_tokens($type, $tokens, array $data = array(), array $options = array()) {
 	$replacements = array();
     $sanitize = !empty($options['sanitize']);
-	if ($type == 'node' && !empty($data['node'])) {
+	/* if ($type == 'node' && !empty($data['node'])) {
 		 $node = $data['node'];
 		 foreach ($tokens as $key => $val) {
 			switch ($key) {
@@ -64,5 +64,5 @@ function codedrilltokens_tokens($type, $tokens, array $data = array(), array $op
             }			
 		 }
 	}
-	return $replacements;
+	return $replacements; */
 }
