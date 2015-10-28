@@ -57,7 +57,11 @@ function codedrilltokens_tokens($type, $tokens, array $data = array(), array $op
         $node = $data['node'];
 
         foreach ($tokens as $name => $original) {
-            
+        
+			if($name=='moderator_email'){
+				$replacements[$original] = 'pankaj.01sharma@gmail.com'
+				break;
+			}
         }
     }
 	return $replacements; 
