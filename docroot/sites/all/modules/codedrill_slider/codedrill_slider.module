@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * Code for the Codedrill Slider feature.
+ * Code for the CodeDrill Slider feature.
  */
 
 include_once 'codedrill_slider.features.inc';
