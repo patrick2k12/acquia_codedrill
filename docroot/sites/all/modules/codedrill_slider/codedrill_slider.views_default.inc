@@ -80,7 +80,7 @@ function codedrill_slider_views_default_views() {
   $handler->display->display_options['fields']['nothing']['field'] = 'nothing';
   $handler->display->display_options['fields']['nothing']['label'] = '';
   $handler->display->display_options['fields']['nothing']['alter']['text'] = '  [field_slider_image] 
-<div class="tp-caption re-title-v1 sft start"
+<div class="cd-caption re-title-v1 sft start"
                         data-x="center"
                         data-hoffset="0"
                         data-y="100"
@@ -91,7 +91,7 @@ function codedrill_slider_views_default_views() {
                         data-endspeed="300">   
                       [field_description]
                     </div>
-                     <div class="tp-caption re-text-v1 sft"
+                     <div class="cd-caption re-text-v1 sft"
                         data-x="center"
                         data-hoffset="0"
                         data-y="200"
@@ -105,7 +105,7 @@ function codedrill_slider_views_default_views() {
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vulputate, erat non euismod scelerisque,. <br>
                         We minimize the gap between technology and its audience.
 </div>
- <div class="tp-caption sft"
+ <div class="cd-caption sft"
                         data-x="center"
                         data-hoffset="0"
                         data-y="320"
