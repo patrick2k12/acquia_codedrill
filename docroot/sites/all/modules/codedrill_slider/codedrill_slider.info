@@ -16,3 +16,7 @@ features[field_instance][] = node-banner_custom_slider-field_slider_image
 features[node][] = banner_custom_slider
 features[views_view][] = slider_view
 features_exclude[dependencies][views] = views
+stylesheets[all][] = assets/plugins/revolution-slider/rs-plugin/css/settings.css
+scripts[] = assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.tools.min.js
+scripts[] = assets/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.revolution.min.js  
+scripts[] = assets/js/plugins/revolution-slider.js
