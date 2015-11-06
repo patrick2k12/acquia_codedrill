@@ -6,7 +6,7 @@ var RevolutionSlider = function () {
         initRSfullWidth: function () {
 		    var revapi;
 	        jQuery(document).ready(function() {
-	            revapi = jQuery('.tp-banner').revolution(
+	            revapi = jQuery('.cd-banner').revolution(
 	            {
 	                delay:9000,
 	                startwidth:1170,
@@ -21,7 +21,7 @@ var RevolutionSlider = function () {
         initRSfullScreenOffset: function () {
 		    var revapi;
 	        jQuery(document).ready(function() {
-	           revapi = jQuery('.tp-banner').revolution(
+	           revapi = jQuery('.cd-banner').revolution(
 	            {
 	                delay:15000,
 	                startwidth:1170,

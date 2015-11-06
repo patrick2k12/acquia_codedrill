@@ -33,10 +33,10 @@ website:   	http://www.themepunch.com
 	-	CAPTIONS	-
 **************************/
 
-.tp-hide-revslider,.tp-caption.tp-hidden-caption	{	visibility:hidden !important; display:none !important;}
+.cd-hide-revslider,.cd-caption.cd-hidden-caption	{	visibility:hidden !important; display:none !important;}
 
-.tp-caption { z-index:1;}
-.tp-caption.big_white{
+.cd-caption { z-index:1;}
+.cd-caption.big_white{
 			position: absolute;
 			color: #fff;
 			text-shadow: none;
@@ -53,7 +53,7 @@ website:   	http://www.themepunch.com
 			letter-spacing: 0px;
 		}
 
-.tp-caption.big_orange{
+.cd-caption.big_orange{
 			position: absolute;
 			color: #fff;
 			text-shadow: none;
@@ -69,7 +69,7 @@ website:   	http://www.themepunch.com
 			letter-spacing: -1.5px;
 		}
 
-.tp-caption.big_black{
+.cd-caption.big_black{
 			position: absolute;
 			color: #000;
 			text-shadow: none;
@@ -85,7 +85,7 @@ website:   	http://www.themepunch.com
 			letter-spacing: -1.5px;
 		}
 
-.tp-caption.medium_grey{
+.cd-caption.medium_grey{
 			position: absolute;
 			color: #fff;
 			text-shadow: none;
@@ -102,7 +102,7 @@ website:   	http://www.themepunch.com
 			text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
 		}
 
-.tp-caption.small_text{
+.cd-caption.small_text{
 			position: absolute;
 			color: #fff;
 			text-shadow: none;
@@ -117,7 +117,7 @@ website:   	http://www.themepunch.com
 			text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
 		}
 
-.tp-caption.medium_text{
+.cd-caption.medium_text{
 			position: absolute;
 			color: #fff;
 			text-shadow: none;
@@ -132,7 +132,7 @@ website:   	http://www.themepunch.com
 			text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
 		}
 
-.tp-caption.large_text{
+.cd-caption.large_text{
 			position: absolute;
 			color: #fff;
 			text-shadow: none;
@@ -146,7 +146,7 @@ website:   	http://www.themepunch.com
 			white-space:nowrap;
 			text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
 		}
-.tp-caption.large_black_text{
+.cd-caption.large_black_text{
 			position: absolute;
 			color: #000;
 			text-shadow: none;
@@ -160,7 +160,7 @@ website:   	http://www.themepunch.com
 			white-space:nowrap;
 		}
 
-.tp-caption.very_large_text{
+.cd-caption.very_large_text{
 			position: absolute;
 			color: #fff;
 			text-shadow: none;
@@ -175,7 +175,7 @@ website:   	http://www.themepunch.com
 			text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
 			letter-spacing: 0px;
 		}
-.tp-caption.very_large_black_text{
+.cd-caption.very_large_black_text{
 			position: absolute;
 			color: #000;
 			text-shadow: none;
@@ -188,7 +188,7 @@ website:   	http://www.themepunch.com
 			border-style: none;
 			white-space:nowrap;
 		}
-.tp-caption.bold_red_text{
+.cd-caption.bold_red_text{
 			position: absolute;
 			color: #d31e00;
 			text-shadow: none;
@@ -201,7 +201,7 @@ website:   	http://www.themepunch.com
 			border-style: none;
 			white-space:nowrap;
 		}
-.tp-caption.bold_brown_text{
+.cd-caption.bold_brown_text{
 			position: absolute;
 			color: #a04606;
 			text-shadow: none;
@@ -214,7 +214,7 @@ website:   	http://www.themepunch.com
 			border-style: none;
 			white-space:nowrap;
 		}
-    .tp-caption.bold_green_text{
+    .cd-caption.bold_green_text{
 			position: absolute;
 			color: #5b9830;
 			text-shadow: none;
@@ -228,7 +228,7 @@ website:   	http://www.themepunch.com
 			white-space:nowrap;
 		}
 
-.tp-caption.very_big_white{
+.cd-caption.very_big_white{
 			position: absolute;
 			color: #fff;
 			text-shadow: none;
@@ -245,7 +245,7 @@ website:   	http://www.themepunch.com
 			background-color:#7e8e96;
 					}
 
-.tp-caption.very_big_black{
+.cd-caption.very_big_black{
 			position: absolute;
 			color: #000;
 			text-shadow: none;
@@ -263,7 +263,7 @@ website:   	http://www.themepunch.com
 					}
 					
 					
-.tp-caption.modern_medium_fat{
+.cd-caption.modern_medium_fat{
 			position: absolute; 
 			color: #000; 
 			text-shadow: none; 
@@ -276,7 +276,7 @@ website:   	http://www.themepunch.com
 			border-style: none; 
 			white-space:nowrap;		
 		}
-.tp-caption.modern_medium_fat_white{
+.cd-caption.modern_medium_fat_white{
 			position: absolute; 
 			color: #fff; 
 			text-shadow: none; 
@@ -289,7 +289,7 @@ website:   	http://www.themepunch.com
 			border-style: none; 
 			white-space:nowrap;		
 		}
-.tp-caption.modern_medium_light{
+.cd-caption.modern_medium_light{
 			position: absolute; 
 			color: #000; 
 			text-shadow: none; 
@@ -302,7 +302,7 @@ website:   	http://www.themepunch.com
 			border-style: none; 
 			white-space:nowrap;		
 		}
-.tp-caption.modern_big_bluebg{
+.cd-caption.modern_big_bluebg{
 			position: absolute; 
 			color: #fff; 
 			text-shadow: none; 
@@ -317,7 +317,7 @@ website:   	http://www.themepunch.com
 			background-color:#4e5b6c;	
 			letter-spacing: 0;										
 		}
-.tp-caption.modern_big_redbg{
+.cd-caption.modern_big_redbg{
 			position: absolute; 
 			color: #fff; 
 			text-shadow: none; 
@@ -333,7 +333,7 @@ website:   	http://www.themepunch.com
 			background-color:#de543e;	
 			letter-spacing: 0;										
 		}
-.tp-caption.modern_small_text_dark{
+.cd-caption.modern_small_text_dark{
 			position: absolute; 
 			color: #555; 
 			text-shadow: none; 
@@ -350,13 +350,13 @@ website:   	http://www.themepunch.com
 					
 					
 
-.tp-caption.boxshadow{
+.cd-caption.boxshadow{
 		-moz-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
 		-webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
 		box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
 	}
 
-.tp-caption.black{
+.cd-caption.black{
 		color: #000;
 		text-shadow: none;
   font-weight: 300;
@@ -365,15 +365,15 @@ website:   	http://www.themepunch.com
 			font-family: 'Open Sans', sans;
 	}
 
-.tp-caption.noshadow {
+.cd-caption.noshadow {
 		text-shadow: none;
 	}
 
-.tp-caption a {
+.cd-caption a {
 	color: #ff7302; text-shadow: none;	-webkit-transition: all 0.2s ease-out; -moz-transition: all 0.2s ease-out; -o-transition: all 0.2s ease-out; -ms-transition: all 0.2s ease-out;
 }
 
-.tp-caption a:hover {
+.cd-caption a:hover {
 	color: #ffa902;
 }
 
@@ -384,7 +384,7 @@ website:   	http://www.themepunch.com
 						max-height:none !important;	}
 
 
-.tp-caption .frontcorner		{
+.cd-caption .frontcorner		{
 										width: 0;
 										height: 0;
 										border-left: 40px solid transparent;
@@ -393,7 +393,7 @@ website:   	http://www.themepunch.com
 										position: absolute;left:-40px;top:0px;
 									}
 
-.tp-caption .backcorner		{
+.cd-caption .backcorner		{
 										width: 0;
 										height: 0;
 										border-left: 0px solid transparent;
@@ -402,7 +402,7 @@ website:   	http://www.themepunch.com
 										position: absolute;right:0px;top:0px;
 									}
 
-.tp-caption .frontcornertop		{
+.cd-caption .frontcornertop		{
 										width: 0;
 										height: 0;
 										border-left: 40px solid transparent;
@@ -411,7 +411,7 @@ website:   	http://www.themepunch.com
 										position: absolute;left:-40px;top:0px;
 									}
 
-.tp-caption .backcornertop		{
+.cd-caption .backcornertop		{
 										width: 0;
 										height: 0;
 										border-left: 0px solid transparent;
@@ -495,8 +495,8 @@ website:   	http://www.themepunch.com
 
 ******************************************************************/
 
-.tp-simpleresponsive .slotholder *,
-.tp-simpleresponsive img			{ -webkit-transform: translateZ(0);
+.cd-simpleresponsive .slotholder *,
+.cd-simpleresponsive img			{ -webkit-transform: translateZ(0);
 										  -webkit-backface-visibility: hidden;
 										  -webkit-perspective: 1000;
 									}
@@ -505,13 +505,13 @@ website:   	http://www.themepunch.com
 /************************************************
 	  - SOME CAPTION MODIFICATION AT START  -
 *************************************************/
-.tp-simpleresponsive .caption,
-.tp-simpleresponsive .tp-caption {
+.cd-simpleresponsive .caption,
+.cd-simpleresponsive .cd-caption {
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";	-moz-opacity: 0;	-khtml-opacity: 0;	opacity: 0; position:absolute; visibility: hidden;
 
 }
 
-.tp-simpleresponsive img	{	max-width:none;}
+.cd-simpleresponsive img	{	max-width:none;}
 
 
 
@@ -526,7 +526,7 @@ website:   	http://www.themepunch.com
 /******************************
 	-	SHADOWS		-
 ******************************/
-.tp-bannershadow  {
+.cd-bannershadow  {
 		position:absolute;
 
 		margin-left:auto;
@@ -537,9 +537,9 @@ website:   	http://www.themepunch.com
         -o-user-select: none;
 	}
 
-.tp-bannershadow.tp-shadow1 {	background:url(../assets/shadow1.png) no-repeat; background-size:100%; width:890px; height:60px; bottom:-60px;}
-.tp-bannershadow.tp-shadow2 {	background:url(../assets/shadow2.png) no-repeat; background-size:100%; width:890px; height:60px;bottom:-60px;}
-.tp-bannershadow.tp-shadow3 {	background:url(../assets/shadow3.png) no-repeat; background-size:100%; width:890px; height:60px;bottom:-60px;}
+.cd-bannershadow.cd-shadow1 {	background:url(../assets/shadow1.png) no-repeat; background-size:100%; width:890px; height:60px; bottom:-60px;}
+.cd-bannershadow.cd-shadow2 {	background:url(../assets/shadow2.png) no-repeat; background-size:100%; width:890px; height:60px;bottom:-60px;}
+.cd-bannershadow.cd-shadow3 {	background:url(../assets/shadow3.png) no-repeat; background-size:100%; width:890px; height:60px;bottom:-60px;}
 
 
 /********************************
@@ -548,8 +548,8 @@ website:   	http://www.themepunch.com
 .caption.fullscreenvideo {	left:0px; top:0px; position:absolute;width:100%;height:100%;}
 .caption.fullscreenvideo iframe	{ width:100% !important; height:100% !important;}
 
-.tp-caption.fullscreenvideo {	left:0px; top:0px; position:absolute;width:100%;height:100%;}
-.tp-caption.fullscreenvideo iframe	{ width:100% !important; height:100% !important;}
+.cd-caption.fullscreenvideo {	left:0px; top:0px; position:absolute;width:100%;height:100%;}
+.cd-caption.fullscreenvideo iframe	{ width:100% !important; height:100% !important;}
 
 /************************
 	-	NAVIGATION	-
@@ -560,14 +560,14 @@ website:   	http://www.themepunch.com
 .tpclear		{	clear:both;}
 
 
-.tp-bullets								{	z-index:1000; position:absolute;
+.cd-bullets								{	z-index:1000; position:absolute;
 												-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 												-moz-opacity: 1;
 												-khtml-opacity: 1;
 												opacity: 1;
 												-webkit-transition: opacity 0.2s ease-out; -moz-transition: opacity 0.2s ease-out; -o-transition: opacity 0.2s ease-out; -ms-transition: opacity 0.2s ease-out;
 											}
-.tp-bullets.hidebullets					{
+.cd-bullets.hidebullets					{
 												-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 												-moz-opacity: 0;
 												-khtml-opacity: 0;
@@ -575,49 +575,49 @@ website:   	http://www.themepunch.com
 											}
 
 
-.tp-bullets.simplebullets.navbar						{ 	border:1px solid #666; border-bottom:1px solid #444; background:url(../assets/boxed_bgtile.png); height:40px; padding:0px 10px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px ;}
+.cd-bullets.simplebullets.navbar						{ 	border:1px solid #666; border-bottom:1px solid #444; background:url(../assets/boxed_bgtile.png); height:40px; padding:0px 10px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px ;}
 
-.tp-bullets.simplebullets.navbar-old					{ 	 background:url(../assets/navigdots_bgtile.png); height:35px; padding:0px 10px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px ;}
-
-
-.tp-bullets.simplebullets.round .bullet					{	cursor:pointer; position:relative;	background:url(../assets/bullet.png) no-Repeat top left;	width:20px;	height:20px;  margin-right:0px; float:left; margin-top:2px; margin-left:3px;}
-.tp-bullets.simplebullets.round .bullet.last			{	margin-right:3px;}
-
-.tp-bullets.simplebullets.round-old .bullet				{	cursor:pointer; position:relative;	background:url(../assets/bullets.png) no-Repeat bottom left;	width:23px;	height:23px;  margin-right:0px; float:left; margin-top:0px;}
-.tp-bullets.simplebullets.round-old .bullet.last		{	margin-right:0px;}
+.cd-bullets.simplebullets.navbar-old					{ 	 background:url(../assets/navigdots_bgtile.png); height:35px; padding:0px 10px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px ;}
 
 
-/**	SQUARE BULLETS **/
-.tp-bullets.simplebullets.square .bullet				{	cursor:pointer; position:relative;	background:url(../assets/bullets2.png) no-Repeat bottom left;	width:19px;	height:19px;  margin-right:0px; float:left; margin-top:2px;}
-.tp-bullets.simplebullets.square .bullet.last			{	margin-right:0px;}
+.cd-bullets.simplebullets.round .bullet					{	cursor:pointer; position:relative;	background:url(../assets/bullet.png) no-Repeat top left;	width:20px;	height:20px;  margin-right:0px; float:left; margin-top:2px; margin-left:3px;}
+.cd-bullets.simplebullets.round .bullet.last			{	margin-right:3px;}
+
+.cd-bullets.simplebullets.round-old .bullet				{	cursor:pointer; position:relative;	background:url(../assets/bullets.png) no-Repeat bottom left;	width:23px;	height:23px;  margin-right:0px; float:left; margin-top:0px;}
+.cd-bullets.simplebullets.round-old .bullet.last		{	margin-right:0px;}
 
 
 /**	SQUARE BULLETS **/
-.tp-bullets.simplebullets.square-old .bullet			{	cursor:pointer; position:relative;	background:url(../assets/bullets2.png) no-Repeat bottom left;	width:19px;	height:19px;  margin-right:0px; float:left; margin-top:2px;}
-.tp-bullets.simplebullets.square-old .bullet.last		{	margin-right:0px;}
+.cd-bullets.simplebullets.square .bullet				{	cursor:pointer; position:relative;	background:url(../assets/bullets2.png) no-Repeat bottom left;	width:19px;	height:19px;  margin-right:0px; float:left; margin-top:2px;}
+.cd-bullets.simplebullets.square .bullet.last			{	margin-right:0px;}
+
+
+/**	SQUARE BULLETS **/
+.cd-bullets.simplebullets.square-old .bullet			{	cursor:pointer; position:relative;	background:url(../assets/bullets2.png) no-Repeat bottom left;	width:19px;	height:19px;  margin-right:0px; float:left; margin-top:2px;}
+.cd-bullets.simplebullets.square-old .bullet.last		{	margin-right:0px;}
 
 
 /** navbar NAVIGATION VERSION **/
-.tp-bullets.simplebullets.navbar .bullet			{	cursor:pointer; position:relative;	background:url(../assets/bullet_boxed.png) no-Repeat top left;	width:18px;	height:19px;   margin-right:5px; float:left; margin-top:10px;}
+.cd-bullets.simplebullets.navbar .bullet			{	cursor:pointer; position:relative;	background:url(../assets/bullet_boxed.png) no-Repeat top left;	width:18px;	height:19px;   margin-right:5px; float:left; margin-top:10px;}
 
-.tp-bullets.simplebullets.navbar .bullet.first		{	margin-left:0px !important;}
-.tp-bullets.simplebullets.navbar .bullet.last		{	margin-right:0px !important;}
+.cd-bullets.simplebullets.navbar .bullet.first		{	margin-left:0px !important;}
+.cd-bullets.simplebullets.navbar .bullet.last		{	margin-right:0px !important;}
 
 
 
 /** navbar NAVIGATION VERSION **/
-.tp-bullets.simplebullets.navbar-old .bullet			{	cursor:pointer; position:relative;	background:url(../assets/navigdots.png) no-Repeat bottom left;	width:15px;	height:15px;  margin-left:5px !important; margin-right:5px !important;float:left; margin-top:10px;}
-.tp-bullets.simplebullets.navbar-old .bullet.first		{	margin-left:0px !important;}
-.tp-bullets.simplebullets.navbar-old .bullet.last		{	margin-right:0px !important;}
+.cd-bullets.simplebullets.navbar-old .bullet			{	cursor:pointer; position:relative;	background:url(../assets/navigdots.png) no-Repeat bottom left;	width:15px;	height:15px;  margin-left:5px !important; margin-right:5px !important;float:left; margin-top:10px;}
+.cd-bullets.simplebullets.navbar-old .bullet.first		{	margin-left:0px !important;}
+.cd-bullets.simplebullets.navbar-old .bullet.last		{	margin-right:0px !important;}
 
 
-.tp-bullets.simplebullets .bullet:hover,
-.tp-bullets.simplebullets .bullet.selected				{	background-position:top left; }
+.cd-bullets.simplebullets .bullet:hover,
+.cd-bullets.simplebullets .bullet.selected				{	background-position:top left; }
 
-.tp-bullets.simplebullets.round .bullet:hover,
-.tp-bullets.simplebullets.round .bullet.selected,
-.tp-bullets.simplebullets.navbar .bullet:hover,
-.tp-bullets.simplebullets.navbar .bullet.selected		{	background-position:bottom left; }
+.cd-bullets.simplebullets.round .bullet:hover,
+.cd-bullets.simplebullets.round .bullet.selected,
+.cd-bullets.simplebullets.navbar .bullet:hover,
+.cd-bullets.simplebullets.navbar .bullet.selected		{	background-position:bottom left; }
 
 
 
@@ -637,48 +637,48 @@ website:   	http://www.themepunch.com
 															-khtml-opacity: 0;
 															opacity: 0;
 														}
-.tp-leftarrow											{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_left.png) no-Repeat top left;	width:40px;	height:40px;   }
-.tp-rightarrow											{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_right.png) no-Repeat top left;	width:40px;	height:40px;   }
+.cd-leftarrow											{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_left.png) no-Repeat top left;	width:40px;	height:40px;   }
+.cd-rightarrow											{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_right.png) no-Repeat top left;	width:40px;	height:40px;   }
 
 
-.tp-leftarrow.round										{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/small_left.png) no-Repeat top left;	width:19px;	height:14px;  margin-right:0px; float:left; margin-top:0px;	}
-.tp-rightarrow.round									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/small_right.png) no-Repeat top left;	width:19px;	height:14px;  margin-right:0px; float:left;	margin-top:0px;}
+.cd-leftarrow.round										{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/small_left.png) no-Repeat top left;	width:19px;	height:14px;  margin-right:0px; float:left; margin-top:0px;	}
+.cd-rightarrow.round									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/small_right.png) no-Repeat top left;	width:19px;	height:14px;  margin-right:0px; float:left;	margin-top:0px;}
 
 
-.tp-leftarrow.round-old									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_left.png) no-Repeat top left;	width:26px;	height:26px;  margin-right:0px; float:left; margin-top:0px;	}
-.tp-rightarrow.round-old								{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_right.png) no-Repeat top left;	width:26px;	height:26px;  margin-right:0px; float:left;	margin-top:0px;}
+.cd-leftarrow.round-old									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_left.png) no-Repeat top left;	width:26px;	height:26px;  margin-right:0px; float:left; margin-top:0px;	}
+.cd-rightarrow.round-old								{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_right.png) no-Repeat top left;	width:26px;	height:26px;  margin-right:0px; float:left;	margin-top:0px;}
 
 
-.tp-leftarrow.navbar									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/small_left_boxed.png) no-Repeat top left;	width:20px;	height:15px;   float:left;	margin-right:6px; margin-top:12px;}
-.tp-rightarrow.navbar									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/small_right_boxed.png) no-Repeat top left;	width:20px;	height:15px;   float:left;	margin-left:6px; margin-top:12px;}
+.cd-leftarrow.navbar									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/small_left_boxed.png) no-Repeat top left;	width:20px;	height:15px;   float:left;	margin-right:6px; margin-top:12px;}
+.cd-rightarrow.navbar									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/small_right_boxed.png) no-Repeat top left;	width:20px;	height:15px;   float:left;	margin-left:6px; margin-top:12px;}
 
 
-.tp-leftarrow.navbar-old								{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrowleft.png) no-Repeat top left;		width:9px;	height:16px;   float:left;	margin-right:6px; margin-top:10px;}
-.tp-rightarrow.navbar-old								{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrowright.png) no-Repeat top left;	width:9px;	height:16px;   float:left;	margin-left:6px; margin-top:10px;}
+.cd-leftarrow.navbar-old								{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrowleft.png) no-Repeat top left;		width:9px;	height:16px;   float:left;	margin-right:6px; margin-top:10px;}
+.cd-rightarrow.navbar-old								{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrowright.png) no-Repeat top left;	width:9px;	height:16px;   float:left;	margin-left:6px; margin-top:10px;}
 
-.tp-leftarrow.navbar-old.thumbswitharrow				{	margin-right:10px; }
-.tp-rightarrow.navbar-old.thumbswitharrow				{	margin-left:0px; }
+.cd-leftarrow.navbar-old.thumbswitharrow				{	margin-right:10px; }
+.cd-rightarrow.navbar-old.thumbswitharrow				{	margin-left:0px; }
 
-.tp-leftarrow.square									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_left2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-right:0px; margin-top:0px;}
-.tp-rightarrow.square									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_right2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-left:0px; margin-top:0px;}
-
-
-.tp-leftarrow.square-old								{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_left2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-right:0px; margin-top:0px;}
-.tp-rightarrow.square-old								{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_right2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-left:0px; margin-top:0px;}
+.cd-leftarrow.square									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_left2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-right:0px; margin-top:0px;}
+.cd-rightarrow.square									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_right2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-left:0px; margin-top:0px;}
 
 
-.tp-leftarrow.default									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_left.png) no-Repeat 0 0;	width:40px;	height:40px;
+.cd-leftarrow.square-old								{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_left2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-right:0px; margin-top:0px;}
+.cd-rightarrow.square-old								{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_right2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-left:0px; margin-top:0px;}
 
-														}
-.tp-rightarrow.default									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_right.png) no-Repeat 0 0;	width:40px;	height:40px;
+
+.cd-leftarrow.default									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_left.png) no-Repeat 0 0;	width:40px;	height:40px;
 
 														}
+.cd-rightarrow.default									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_right.png) no-Repeat 0 0;	width:40px;	height:40px;
+
+														}
 
 
 
 
-.tp-leftarrow:hover,
-.tp-rightarrow:hover 									{	background-position:bottom left; }
+.cd-leftarrow:hover,
+.cd-rightarrow:hover 									{	background-position:bottom left; }
 
 
 
@@ -689,28 +689,28 @@ website:   	http://www.themepunch.com
 	-	TP THUMBS 	-
 *****************************************************************************************************
 
- - tp-thumbs & tp-mask Width is the width of the basic Thumb Container (500px basic settings)
+ - cd-thumbs & cd-mask Width is the width of the basic Thumb Container (500px basic settings)
 
  - .bullet width & height is the dimension of a simple Thumbnail (basic 100px x 50px)
 
  *****************************************************************************************************/
 
 
-.tp-bullets.tp-thumbs						{	z-index:1000; position:absolute; padding:3px;background-color:#fff;
+.cd-bullets.cd-thumbs						{	z-index:1000; position:absolute; padding:3px;background-color:#fff;
 												width:500px;height:50px; 			/* THE DIMENSIONS OF THE THUMB CONTAINER */
 												margin-top:-50px;
 											}
 
 
-.fullwidthbanner-container .tp-thumbs		{  padding:3px;}
+.fullwidthbanner-container .cd-thumbs		{  padding:3px;}
 
-.tp-bullets.tp-thumbs .tp-mask				{	width:500px; height:50px;  			/* THE DIMENSIONS OF THE THUMB CONTAINER */
+.cd-bullets.cd-thumbs .cd-mask				{	width:500px; height:50px;  			/* THE DIMENSIONS OF THE THUMB CONTAINER */
 												overflow:hidden; position:relative;}
 
 
-.tp-bullets.tp-thumbs .tp-mask .tp-thumbcontainer	{	width:5000px; position:absolute;}
+.cd-bullets.cd-thumbs .cd-mask .cd-thumbcontainer	{	width:5000px; position:absolute;}
 
-.tp-bullets.tp-thumbs .bullet				{   width:100px; height:50px; 			/* THE DIMENSION OF A SINGLE THUMB */
+.cd-bullets.cd-thumbs .bullet				{   width:100px; height:50px; 			/* THE DIMENSION OF A SINGLE THUMB */
 												cursor:pointer; overflow:hidden;background:none;margin:0;float:left;
 												-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 												/*filter: alpha(opacity=50);	*/
@@ -722,21 +722,21 @@ website:   	http://www.themepunch.com
 											}
 
 
-.tp-bullets.tp-thumbs .bullet:hover,
-.tp-bullets.tp-thumbs .bullet.selected		{ 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+.cd-bullets.cd-thumbs .bullet:hover,
+.cd-bullets.cd-thumbs .bullet.selected		{ 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 
 												-moz-opacity: 1;
 												-khtml-opacity: 1;
 												opacity: 1;
 											}
-.tp-thumbs img								{	width:100%; }
+.cd-thumbs img								{	width:100%; }
 
 
 /************************************
 		-	TP BANNER TIMER		-
 *************************************/
-.tp-bannertimer								{	width:100%; height:10px; background:url(../assets/timer.png);position:absolute; z-index:200;top:0px;}
-.tp-bannertimer.tp-bottom					{	bottom:0px;height:5px; top:auto;}
+.cd-bannertimer								{	width:100%; height:10px; background:url(../assets/timer.png);position:absolute; z-index:200;top:0px;}
+.cd-bannertimer.cd-bottom					{	bottom:0px;height:5px; top:auto;}
 
 
 
@@ -753,14 +753,14 @@ website:   	http://www.themepunch.com
 
 
 	@media only screen and (min-width: 480px) and (max-width: 767px) {
-			.responsive .tp-bullets.tp-thumbs				{	width:300px !important; height:30px !important;}
-			.responsive .tp-bullets.tp-thumbs .tp-mask		{	width:300px !important; height:30px !important;}
-			.responsive .tp-bullets.tp-thumbs .bullet		{	width:60px !important;height:30px !important;}
+			.responsive .cd-bullets.cd-thumbs				{	width:300px !important; height:30px !important;}
+			.responsive .cd-bullets.cd-thumbs .cd-mask		{	width:300px !important; height:30px !important;}
+			.responsive .cd-bullets.cd-thumbs .bullet		{	width:60px !important;height:30px !important;}
 
 	}
 
     @media only screen and (min-width: 0px) and (max-width: 479px) {
-				.responsive .tp-bullets	{	display:none}
+				.responsive .cd-bullets	{	display:none}
 				.responsive .tparrows	{	display:none;}
 	}
 
@@ -774,7 +774,7 @@ website:   	http://www.themepunch.com
 
 ***********************************************/
 
- .tp-simpleresponsive img {
+ .cd-simpleresponsive img {
 		-moz-user-select: none;
         -khtml-user-select: none;
         -webkit-user-select: none;
@@ -783,32 +783,32 @@ website:   	http://www.themepunch.com
 
 
 
-.tp-simpleresponsive a{	text-decoration:none;}
+.cd-simpleresponsive a{	text-decoration:none;}
 
-.tp-simpleresponsive ul {
+.cd-simpleresponsive ul {
 	list-style:none;
 	padding:0;
 	margin:0;
 }
 
-.tp-simpleresponsive >ul >li{
+.cd-simpleresponsive >ul >li{
 	list-stye:none;
 	position:absolute;
 	visibility:hidden;
 }
 /*  CAPTION SLIDELINK   **/
 .caption.slidelink a div,
-.tp-caption.slidelink a div {	width:3000px; height:1500px;  background:url(../assets/coloredbg.png) repeat;}
+.cd-caption.slidelink a div {	width:3000px; height:1500px;  background:url(../assets/coloredbg.png) repeat;}
 
-.tp-loader 	{	background:url(../assets/loader.gif) no-repeat 10px 10px; background-color:#fff;  margin:-22px -22px; top:50%; left:50%; z-index:10000; position:absolute;width:44px;height:44px;
+.cd-loader 	{	background:url(../assets/loader.gif) no-repeat 10px 10px; background-color:#fff;  margin:-22px -22px; top:50%; left:50%; z-index:10000; position:absolute;width:44px;height:44px;
 				border-radius: 3px;
 				-moz-border-radius: 3px;
 				-webkit-border-radius: 3px;
 			}
 
 
-.tp-transparentimg {	content:"url(../assets/transparent.png)"}
-.tp-3d				{	-webkit-transform-style: preserve-3d;
+.cd-transparentimg {	content:"url(../assets/transparent.png)"}
+.cd-3d				{	-webkit-transform-style: preserve-3d;
 						 -webkit-transform-origin: 50% 50%;
 					}
 
