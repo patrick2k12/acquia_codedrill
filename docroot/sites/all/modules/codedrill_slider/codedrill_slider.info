@@ -18,5 +18,5 @@ features[views_view][] = slider_view
 features_exclude[dependencies][views] = views
 stylesheets[all][] = assets/css/settings.css
 scripts[] = assets/js/jquery.themepunch.tools.min.js
-scripts[] = assets/jquery.themepunch.revolution.min.js  
+scripts[] = assets/js/jquery.themepunch.revolution.min.js  
 scripts[] = assets/js/revolution-slider.js
