@@ -39,3 +39,5 @@ var RevolutionSlider = function () {
 
     };
 }();        
+
+RevolutionSlider.initRSfullScreenOffset();
