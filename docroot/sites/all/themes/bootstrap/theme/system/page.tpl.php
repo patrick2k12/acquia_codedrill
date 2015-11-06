@@ -112,7 +112,7 @@
     <?php endif; ?>
   </div>
 </header>
-
+ <?php print render($page['slider']); ?>
 <div class="main-container container">
 
   <header role="banner" id="page-header">
