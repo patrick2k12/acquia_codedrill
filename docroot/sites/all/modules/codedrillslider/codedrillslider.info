@@ -1,0 +1,6 @@
+; $Id:
+name = CodeDrill Slider
+description = CodeDrill Custom Slider Using Views
+package = D7 Views Recipes
+version = "7.x-4.1"
+core = "7.x"
