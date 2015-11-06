@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Codedrill Slider feature.
+ */
+
+include_once 'codedrill_slider.features.inc';
